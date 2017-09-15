@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/AnimationEventTest.unity
+- path: Assets/Scene/CameraInertiaMove.unity
   isLoaded: 1
   isActive: 1

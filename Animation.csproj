@@ -79,6 +79,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Ani_Yield.cs" />
+    <Compile Include="Assets\Script\CameraInertiaMove.cs" />
     <Compile Include="Assets\Script\CountTime.cs" />
     <Compile Include="Assets\Script\TestAniamtionEvent.cs" />
     <Compile Include="Assets\box.cs" />
